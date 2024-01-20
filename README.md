@@ -5,9 +5,9 @@
 
 - 📫 How to reach me **lca162@sfu.ca**
 <p align="left">
-  Markup : *  Hello! My name is Lucas Chen, I am currently 3rd year Computer Science Student at Simon Fraser University.
+Markup : -  Hello! My name is Lucas Chen, I am currently 3rd year Computer Science Student at Simon Fraser University.
 
-  Markup : * I have experience in both front-end and back-end development, and I am currently learning about ML and image recognition.
+Markup : * I have experience in both front-end and back-end development, and I am currently learning about ML and image recognition.
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
