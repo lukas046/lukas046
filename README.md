@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **SQL**
 
-<h3 align="left">Bio</h3>
+<h1 align="left">Bio</h1>
 
 - 📫 How to reach me **lca162@sfu.ca**
 -  Hello! My name is Lucas Chen, I am currently 3rd year Computer Science Student at Simon Fraser University.
