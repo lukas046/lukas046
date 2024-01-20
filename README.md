@@ -4,9 +4,9 @@
 - 🌱 I’m currently learning **SQL**
 
 - 📫 How to reach me **lca162@sfu.ca**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
+  * Hello! My name is Lucas Chen, I am currently 3rd year Computer Science Student at Simon Fraser University.
+  * I have experience in both front-end and back-end development, and I am currently learning about ML and image recognition.
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
